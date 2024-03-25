@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nithishm612345@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Nithish-14/resume.pdf](https://github.com/Nithish-14/resume.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/Nithish-14/resume/blob/main/resume.pdf)
 
 - ⚡ Fun fact **Late-night coding wizard**
 
